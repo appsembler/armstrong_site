@@ -1,5 +1,5 @@
 # Production settings for armstrong_site
-from settings.defaults import *
+from settings.settings import *
 
 DEBUG = False
 TEMPLATE_DEBUG = DEBUG

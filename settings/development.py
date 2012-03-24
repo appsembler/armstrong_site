@@ -1,5 +1,5 @@
 # Development settings for armstrong_site
-from settings.defaults import *
+from settings.settings import *
 
 DEBUG = True
 TEMPLATE_DEBUG = DEBUG
